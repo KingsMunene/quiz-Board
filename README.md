@@ -1,6 +1,6 @@
-# Triangle Tracker
+# QUIZ BOARD
 
-Triangle Tracker is a web application for identifying the type of a triangle. The user provides numeric input for the three sides of a triangle then the application outputs the type of triangle based on the values. It also alerts the user if the values do not meet a standard triangle.
+Quiz Board is a website on which students can take a java script test which is presented in multiple choices and get results after submitting their choices. The score is in percentage.
 ## AUTHOR(s) Information
 check out my Portfolio:[https://kingsmunene.github.io/]()
 
