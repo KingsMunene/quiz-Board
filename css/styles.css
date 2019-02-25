@@ -1,4 +1,11 @@
 .header{
   font-family: 'Merienda One', cursive;
-  
+  text-align: center;
+  animation: pop-in .6s ease-out forwards;
+}
+.radio{
+  font-family: 'Sorts Mill Goudy', serif;
+}
+p {
+  font-family: 'Prociono', serif;
 }
