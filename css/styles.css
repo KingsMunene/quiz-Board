@@ -5,6 +5,7 @@
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-weight: bold;
 
 }
 .radio{
@@ -33,4 +34,13 @@ body{
   text-align: center;
   font-weight: 400;
   font-size: 30px;
+  border: 2px solid #4ECDC4;
+}
+.button{
+  border: 2px solid #000428;
+}
+img{
+  float: left;
+  height: 65px;
+  width: 65px;
 }
