@@ -1,11 +1,36 @@
 .header{
   font-family: 'Merienda One', cursive;
   text-align: center;
-  animation: pop-in .6s ease-out forwards;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
 }
 .radio{
+  font-size: 20px;
   font-family: 'Sorts Mill Goudy', serif;
+  color:white;
+
 }
 p {
   font-family: 'Prociono', serif;
+  font-size: 30px;
+  color:white;
+  font-style: normal;
+  font-weight: 200;
+}
+body{
+  background-image: url(../image/quiz.gif);
+  background-attachment: fixed;
+}
+.container{
+  background-color: rgba(0,0,0, 0.3);
+}
+.rst{
+  font-family: 'Fredericka the Great', cursive;
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-size: 30px;
 }

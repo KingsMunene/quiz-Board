@@ -10,7 +10,8 @@ $(document).ready(function(){
 
 
     var total = input1 + input2 + input3 + input4 + input5;
+    totalpercentage=(total/50)*100;
 
-    document.getElementById("result").innerHTML = "Your score is " + total;
+    document.getElementById("result").innerHTML = "Your score is " + totalpercentage + "%";
   });
 });
